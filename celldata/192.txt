@@ -1,0 +1,12 @@
+1 143 207 129.487 0 w:/¸ÉÏ¸°ûÍ¼Ïñ/v4_osk_3d-a/result3/part/cells/192_1.jpg
+2 158 194 129.038 0 w:/¸ÉÏ¸°ûÍ¼Ïñ/v4_osk_3d-a/result3/part/cells/192_2.jpg
+3 133 192 134.676 0 w:/¸ÉÏ¸°ûÍ¼Ïñ/v4_osk_3d-a/result3/part/cells/192_3.jpg
+4 51 161 126.339 0 w:/¸ÉÏ¸°ûÍ¼Ïñ/v4_osk_3d-a/result3/part/cells/192_4.jpg
+5 62 158 129.942 0 w:/¸ÉÏ¸°ûÍ¼Ïñ/v4_osk_3d-a/result3/part/cells/192_5.jpg
+6 137 156 130.533 0 w:/¸ÉÏ¸°ûÍ¼Ïñ/v4_osk_3d-a/result3/part/cells/192_6.jpg
+7 124 150 131.626 0 w:/¸ÉÏ¸°ûÍ¼Ïñ/v4_osk_3d-a/result3/part/cells/192_7.jpg
+8 142 132 131.409 0 w:/¸ÉÏ¸°ûÍ¼Ïñ/v4_osk_3d-a/result3/part/cells/192_8.jpg
+9 47 126 126.667 0 w:/¸ÉÏ¸°ûÍ¼Ïñ/v4_osk_3d-a/result3/part/cells/192_9.jpg
+10 131 124 131.709 0 w:/¸ÉÏ¸°ûÍ¼Ïñ/v4_osk_3d-a/result3/part/cells/192_10.jpg
+11 24 109 126.131 0 w:/¸ÉÏ¸°ûÍ¼Ïñ/v4_osk_3d-a/result3/part/cells/192_11.jpg
+12 11 70 127.086 0 w:/¸ÉÏ¸°ûÍ¼Ïñ/v4_osk_3d-a/result3/part/cells/192_12.jpg

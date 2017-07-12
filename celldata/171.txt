@@ -1,0 +1,3 @@
+1 142 201 134.692 0 w:/¸ÉÏ¸°ûÍ¼Ïñ/v4_osk_3d-a/result3/part/cells/171_1.jpg
+2 132 152 126.467 0 w:/¸ÉÏ¸°ûÍ¼Ïñ/v4_osk_3d-a/result3/part/cells/171_2.jpg
+3 41 142 124.87 0 w:/¸ÉÏ¸°ûÍ¼Ïñ/v4_osk_3d-a/result3/part/cells/171_3.jpg
